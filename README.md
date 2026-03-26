@@ -29,6 +29,11 @@ obj.mech(r)
 
 ## Output
 
+<img width="955" height="240" alt="image" src="https://github.com/user-attachments/assets/f19a75c1-ac4f-4629-aeef-dcc4fda131cf" />
+
+## Result
+Thus the program executed successfully.
+
 ## Dictionary Operations in Python: Merging Two Dictionaries
 
 ## 🎯 Aim
@@ -55,9 +60,3 @@ print(c)
 ## Result
 Thus the program executed successfully.
 
-
-
-<img width="955" height="240" alt="image" src="https://github.com/user-attachments/assets/f19a75c1-ac4f-4629-aeef-dcc4fda131cf" />
-
-## Result
-Thus the program executed successfully.
